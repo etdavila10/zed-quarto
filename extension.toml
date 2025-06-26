@@ -1,0 +1,7 @@
+id = "quarto"
+name = "Quarto"
+version = "0.0.1"
+schema_version = 1
+authors = ["Eduardo Torres Dávila <etdavila10@gmail.com>"]
+description = "Zed extension for quarto"
+repository = "https://github.com/etdavila10/zed-quarto"

@@ -1,0 +1,4 @@
+name = "Quarto"
+grammar = "markdown"
+path_suffixes = ["qmd"]
+tab_size = 2
