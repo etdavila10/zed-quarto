@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["Eduardo Torres Dávila <etdavila10@gmail.com>"]
 description = "Zed extension for quarto"
 repository = "https://github.com/etdavila10/zed-quarto"
+
+[grammars.markdown]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
+rev = "afaa4138517363362f54c89330c9d79391e81168"
